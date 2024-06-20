@@ -2,7 +2,7 @@
     "api_id": 9797837,
     "api_hash": "730127889a33700cd6328052e028e4af",
     "admin": 6584103352,
-    "auto_upgrade": true,
+    "auto_upgrade": false,
     "max_charge_level": 5,
     "max_energy_level": 10,
     "max_tap_level": 10
